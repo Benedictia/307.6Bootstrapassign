@@ -1,7 +1,7 @@
 Welcome to my Website
 
 Description
-My project is a responsive restaurant website designed to showcase a well-developed HTML structure, CSS   to produce a satisfying user experience. It includes sections for home page, menu/order page, and contact page, styled with Bootstrap for a modern look and feel.
+My project is a responsive restaurant website designed to showcase a well-developed HTML structure, CSS   to produce a satisfying user experience. It consist of the  home page, menu/order page, and contact page, styled with Bootstrap for a modern look and feel.
 
  Technical Specifications
 **HTML**: The website is built using semantic HTML5, ensuring proper structure and accessibility. The requirements(HTML tags, table, form, dropdown menus, text, images)
